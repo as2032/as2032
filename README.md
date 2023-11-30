@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I am a student completing my Masters in Computer Science at the University of Maryland - College park. I am interested in backend Software Engineering, NLP, AI, and ML.
+- 👩‍💻 I'm currently involved in graduate research with University of Maryland's Center for Risk and Reliability. We are using applied AI and NLP to develop a scaleable platform of social chatbots to model and analyze the spread of misinformation and its influence in social media.
+
+
 
 <!--
 **as2032/as2032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
