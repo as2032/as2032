@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm a versatile computer science graduate student at the University of Maryland, with a keen interest in Applied AI, Data Science, and Software Engineering. My journey through coursework, research projects, and internships has equipped me with the technical expertise and analytical thinking skills needed to create innovative solutions for challenging problems.
+- 🔭 I'm a versatile computer science graduate student at the University of Maryland, with a keen interest in Applied AI, Data Science, and Software Engineering. My coursework, projects, and internships have equipped me with the technical expertise and analytical thinking skills needed to create innovative solutions for challenging problems.
 - 👩‍💻 I'm currently involved in graduate research with University of Maryland's Center for Risk and Reliability. We are using applied AI and NLP to develop a scaleable platform of social chatbots to model and analyze the spread of misinformation and its influence in social media.
 
 
